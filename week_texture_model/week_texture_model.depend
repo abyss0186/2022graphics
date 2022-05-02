@@ -33,3 +33,15 @@
 	<assert.h>
 	"glm.h"
 
+1650878687 source:c:\users\user\desktop\2022graphics\week_texture_model\main.cpp
+	<GL/glut.h>
+	<iostream>
+	<opencv/highgui.h>
+	<opencv/highgui.h>
+	<opencv/cv.h>
+	<GL/glut.h>
+	"glm.h"
+
+924330300 c:\users\user\desktop\2022graphics\week_texture_model\glm.h
+	<GL/glut.h>
+
